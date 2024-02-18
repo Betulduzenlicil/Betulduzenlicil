@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/girl-working-before-the-deadline-10447892-8499957.mp4?raw=true" width="500" height="320" />
 
 ## I'm a  👨‍🎓, Front End Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
 - 🔭 I’m currently working on a large and special application.
