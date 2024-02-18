@@ -1,5 +1,7 @@
 ### Hi there 👋
-<img align="right" alt="GIF" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/girl-working-before-the-deadline-10447892-8499957.mp4?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="![image](https://github.com/Betulduzenlicil/Betulduzenlicil/assets/130503572/51775620-e3eb-4db7-8fd7-8d9e1de6ee85)
+![Uploading image.png…]()
+?raw=true" width="500" height="320" />
 
 ## I'm a  👨‍🎓, Front End Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
 - 🔭 I’m currently working on a large and special application.
