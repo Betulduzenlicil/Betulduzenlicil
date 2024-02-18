@@ -4,7 +4,6 @@
 ## I'm a  👨‍🎓, Front End Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
 - 🔭 I’m currently working on a large and special application.
 - 🌱 I’m currently learning 😂
-- 👯
 - 🤔 I’m looking for help with front-end developer
 - 🥅 2024 Goals:  learning artificial intelligence 🤖 and creating educatıonal material with AR and VR technologies
 -
@@ -31,9 +30,5 @@ I also work as a FreeLancer 🆓.
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimTalha0&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
 
-<br />
-<br />
 
-
-**Betulduzenlicil/Betulduzenlicil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
