@@ -17,11 +17,7 @@ I also work as a FreeLancer 🆓.
 <br />
 
 ### 📩 Connect with me:
-<br/>
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin.com/in/betül-düzenli-çil]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][betulcil.25@gmail.com]
 
-<br/>
 ### 🔧 Languages and Tools:
 
 
