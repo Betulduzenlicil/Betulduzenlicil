@@ -1,7 +1,5 @@
 ### Hi there 👋
-<img align="right" alt="GIF" src="https://i.pinimg.com/236x/95/21/46/952146299fc86f2b322678cab766c954.jpg")
-![Uploading image.png…]()
-?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a  👨‍🎓, Front End Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
 - 🔭 I’m currently working on a large and special application.
