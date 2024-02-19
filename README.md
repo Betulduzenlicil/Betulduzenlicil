@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" alt="GIF" src="![image](https://github.com/Betulduzenlicil/Betulduzenlicil/assets/130503572/51775620-e3eb-4db7-8fd7-8d9e1de6ee85)
+<img align="right" alt="GIF" src="https://i.pinimg.com/236x/95/21/46/952146299fc86f2b322678cab766c954.jpg")
 ![Uploading image.png…]()
 ?raw=true" width="500" height="320" />
 
