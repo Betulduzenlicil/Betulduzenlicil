@@ -16,7 +16,7 @@ I also work as a FreeLancer 🆓.
 
 <br />
 
-### 📩 Connect with me:
+
 
 ### 🔧 Languages and Tools:
 
