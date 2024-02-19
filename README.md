@@ -25,7 +25,7 @@ I also work as a FreeLancer 🆓.
 [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/react/react.png" />]
 [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/redux/redux.png" />]
 [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/firebase/firebase.png" />]
-[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/tailwindcss/tailwindcss.png" />]
+[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/tailwind/tailwind.png" />]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />]
 [<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />]
 [<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/materialuı/materialuı.png" />]
